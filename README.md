@@ -8,7 +8,7 @@ Due to the acadmic scandal, it was decided that grade 9 test scores from Thomas 
 
 - The district as a whole experienced a slight decrease in test scores, causing a drop in overall passing percentage from 65.2% to 64.9%.
     - Before: <img src="Resource/before_district_summary.png">
-    - After: <img src="Resource/after_district_summarys.png">
+    - After: <img src="Resource/after_district_summary.png">
 - All other schools (besides Thomas High School) were not affected as a result of the data removal, and the results stay the same as before.
 - For Thomas High School however, they experienced a slight improvement in their average reading scores but experienced drops in all other areas e.g. average math scores, overall percentage passing scores, etc.
     - Before: <img src="Resource/before_school_summary.png">
